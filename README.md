@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-**Project Link**: [PLAY NOW!](https://mithun776.github.io/TicTacToe/)
+**Project Link**: <a href="https://mithun776.github.io/TicTacToe/" target="_blank">PLAY NOW!</a>
 
 ## Overview
 
